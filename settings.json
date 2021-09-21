@@ -1,4 +1,4 @@
 {
     "optimization": true,
-    "context": ""
+    "context": "<div>Testing context<div/>"
 }
