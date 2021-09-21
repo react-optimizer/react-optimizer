@@ -1,4 +1,4 @@
 {
-    "optimization": true,
-    "context": "<div style=\"background-color: #FFF\">Testing context<div/>"
+    "optimization": false,
+    "context": "<div>Testing context 2<div/>"
 }
